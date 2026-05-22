@@ -1,0 +1,30 @@
+h1 {
+ color: chartreuse;
+   display: flex; 
+  flex-direction: column; 
+  align-items: center; 
+  justify-content: center;
+  margin: 40px;
+}
+
+button  { display: flex; 
+  flex-direction: column; 
+  align-items: center; 
+  justify-content: center;
+  margin: 0 auto;
+} 
+
+    h2 { 
+        color: greenyellow;
+        display: flex; 
+  flex-direction: column; 
+  align-items: center; 
+  justify-content: center;
+  margin: 30px;
+    }
+
+form { display: flex; 
+  flex-direction: column; 
+  align-items: center; 
+  justify-content: center;
+  margin: 30px; }
