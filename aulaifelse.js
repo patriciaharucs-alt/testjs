@@ -12,7 +12,7 @@ function doSomething() {
   const valorsalvo = localStorage.getItem('textousuario');
 
   if (valorsalvo) { areaMensagem.textContent =  valorsalvo;
-
+                  }
   }
 button.addEventListener("click", doSomething);
 
